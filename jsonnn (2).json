@@ -1,11 +1,11 @@
 {
 
  
-  "applovin_banner_id": "xxxxxx",
-  "applovin_interstitial_id": "xxxxxx",
-  "applovin_native_id": "xxxxxx",
-  "applovin_rewarded_id": "xxxxxx",
-  "max": false,
+  "applovin_banner_id": "88788fa5d8e8b323",
+  "applovin_interstitial_id": "3288ff3b6e98821e",
+  "applovin_native_id": "466c11d134c3762e",
+  "applovin_rewarded_id": "2d7e29855dfba1e3",
+  "max": true,
   
   "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -14,10 +14,10 @@
   
   "startapp_id": "xxxxxxxx",
 
-  "Interstitial": "xxxxxxxx",
-  "Banner": "xxxxxxxx",
-  "Native": "xxx",
-  "Rewarded": "xxxxxxxx",
+  "Interstitial": applovin",
+  "Banner": "applovin",
+  "Native": "applovin",
+  "Rewarded": "applovin",
   
   
   "main_inter": true,
@@ -28,8 +28,8 @@
   
   "rate": false,
   
-  "clicks_to_show_inter": 2,
-  "native_rate": 2,
+  "clicks_to_show_inter": 1,
+  "native_rate": 1,
   
    "show_cpa": false,
   "cpa_image": "",
